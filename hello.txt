@@ -43,5 +43,11 @@ rebase
 
 rebase는 기본 merge와는 달리 트리가 더 깔끔하게 유지됩니다.
 
-
 ## rebase
+
+##기타
+etc
+
+##revert 개념이하기
+- 선택한 커밋 하나의 변경사항을 되돌림
+- 새로운 commit 생성
