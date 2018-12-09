@@ -1,5 +1,0 @@
-test
-
-commit
-
-test2 commit2
